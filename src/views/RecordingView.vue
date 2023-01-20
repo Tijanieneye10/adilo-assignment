@@ -4,7 +4,6 @@ import BreadCrumb from "../components/BreadCrumb.vue";
 </script>
 <template>
   <BreadCrumb />
-
   <div
     class="flex flex-col justify-center items-center border-2 border-dashed border-slate-400 rounded-2xl py-10 gap-8 ml-8 mr-32"
   >
