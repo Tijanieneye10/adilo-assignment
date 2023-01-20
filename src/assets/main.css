@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.add-border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  border: 3px #0dabd8 solid;
+  border-radius: 3px;
+  width: 7rem;
+}
